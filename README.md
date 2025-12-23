@@ -174,16 +174,13 @@ If you find a bug or have a suggestion, please open an issue on GitHub with:
 - Your Python and Pandas versions
 
 ---
-
+<div align="center">
+   
 ## Contact & Support
 
-<div align="center">
-
-**👨‍💻 Author:** Daniel Nzioki Musyoka
-
+**Author:** Daniel Nzioki Musyoka
 [![Email](https://img.shields.io/badge/Email-danzioki01%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danzioki01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Daniel059-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniel059)
-
 </div>
 
 ---
@@ -201,8 +198,6 @@ If you found this project helpful or a great starting point for your own **data 
 <a href="https://github.com/Daniel059/Sales_Etl/network/members">
   <img src="https://img.shields.io/github/forks/Daniel059/Sales_Etl?style=social" alt="GitHub forks">
 </a>
-
----
 
 ## 🔗 Connect with the Author
 
