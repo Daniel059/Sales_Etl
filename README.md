@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 
 # Sales Data ETL Pipeline for Reporting
@@ -27,6 +27,14 @@ This project implements a **beginner-friendly Extract, Transform, Load (ETL) pip
 To run this project, you will need Python installed on your system, along with the Pandas library.
 
 1.  **Clone the repository (if applicable) or create your project directory:**
+   ### Clone the Repository
+
+```bash
+git clone https://github.com/Daniel059/Sales_Etl.git
+cd Sales_Etl
+```
+### Or Creat project directory
+
 ```bash
     mkdir sales_etl_project
     cd sales_etl_project
