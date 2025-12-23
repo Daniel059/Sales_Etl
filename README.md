@@ -144,8 +144,8 @@ If you find a bug or have a suggestion, please open an issue on GitHub with:
 
 ---
 
-**Author**: [Daniel Nzioki Musyoka]  
-**Contact**: [danzioki01@gmail.com or Daniel059]
+**Author**: Daniel Nzioki Musyoka
+**Contact**: [danzioki01@gmail.com]
 ```
 
 **Additionally, you'll need to create a separate `LICENSE` file in your repository root:**
