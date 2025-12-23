@@ -1,7 +1,27 @@
+<div align="center">
+
+
 # Sales Data ETL Pipeline for Reporting
 
-## Introduction
-This project implements a basic Extract, Transform, Load (ETL) pipeline designed for sales data processing. It serves as a beginner-friendly guide to processing raw sales information from a CSV file, performing essential data transformations using Python and the Pandas library, and preparing the cleaned data for reporting or further analytical tasks. The pipeline focuses on calculating derived metrics like total price and ensuring correct data types for robust analysis.
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)](https://github.com/Daniel059/Sales_Etl)
+
+</div>
+
+## 📖 Introduction
+
+This project implements a **beginner-friendly Extract, Transform, Load (ETL) pipeline** designed for sales data processing. It serves as a comprehensive guide to processing raw sales information from CSV files, performing essential data transformations using Python and the Pandas library, and preparing cleaned data for reporting or further analytical tasks.
+
+### ✨ Key Features
+
+- 🔄 **Automated Data Processing** - Extract, transform, and load sales data seamlessly
+- 📅 **Date Handling** - Proper datetime conversion for temporal analysis
+- 💰 **Price Calculations** - Automatic total price computation
+- 🔢 **Type Safety** - Ensures correct data types for robust analysis
+
+
 
 ## Setup
 To run this project, you will need Python installed on your system, along with the Pandas library.
