@@ -137,7 +137,10 @@ Upon successful execution, the pipeline will:
 * **Date parsing errors**: Verify that `order_date` column is in a valid date format (YYYY-MM-DD recommended)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Contributing
 Contributions are welcome! If you'd like to improve this project, please follow these steps:
