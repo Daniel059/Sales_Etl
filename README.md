@@ -109,7 +109,40 @@ Upon successful execution, the pipeline will:
 * **Date parsing errors**: Verify that `order_date` column is in a valid date format (YYYY-MM-DD recommended)
 
 ## License
-[Add your license information here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
-[Add contribution guidelines here if applicable]
+Contributions are welcome! If you'd like to improve this project, please follow these steps:
+
+1. **Fork the repository**
+2. **Create a feature branch**
+```bash
+   git checkout -b feature/your-feature-name
+```
+3. **Make your changes and commit them**
+```bash
+   git commit -m "Add: description of your changes"
+```
+4. **Push to your branch**
+```bash
+   git push origin feature/your-feature-name
+```
+5. **Open a Pull Request**
+
+### Contribution Guidelines
+- Ensure your code follows Python best practices (PEP 8)
+- Test your changes thoroughly before submitting
+- Update documentation if you're adding new features
+- Keep commit messages clear and descriptive
+
+### Reporting Issues
+If you find a bug or have a suggestion, please open an issue on GitHub with:
+- A clear description of the problem or suggestion
+- Steps to reproduce (for bugs)
+- Expected vs actual behavior
+- Your Python and Pandas versions
+
+---
+
+**Author**: Daniel Nzioki Musyoka  
+**Contact**: danzioki01@gmail.com
