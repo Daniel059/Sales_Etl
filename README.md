@@ -190,11 +190,28 @@ If you find a bug or have a suggestion, please open an issue on GitHub with:
 
 <div align="center">
 
-### ⭐ If you find this project helpful, please give it a star!
+## ⭐ Show Your Support
 
-[![Stars](https://img.shields.io/github/stars/Daniel059/Sales_Etl?style=social)](https://github.com/Daniel059/Sales_Etl/stargazers)
-[![Forks](https://img.shields.io/github/forks/Daniel059/Sales_Etl?style=social)](https://github.com/Daniel059/Sales_Etl/network/members)
+If you found this project helpful or a great starting point for your own **data engineering** or **analytics** work, your support means a lot!
 
+<a href="https://github.com/Daniel059/Sales_Etl/stargazers">
+  <img src="https://img.shields.io/github/stars/Daniel059/Sales_Etl?style=social" alt="GitHub stars">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Daniel059/Sales_Etl/network/members">
+  <img src="https://img.shields.io/github/forks/Daniel059/Sales_Etl?style=social" alt="GitHub forks">
+</a>
 
+---
+
+## 🔗 Connect with the Author
+
+<a href="https://linkedin.com/in/daniel-nzioki-musyoka/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Nzioki%20Musyoka-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="https://daniel-nzioki-musyoka-data-and-ai-pro.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Data%20%26%20AI%20Projects-green?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
 
 </div>
